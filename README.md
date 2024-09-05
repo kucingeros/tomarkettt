@@ -49,7 +49,7 @@ git site : [here](https://git-scm.com/)
 
 	python -m pip install -r requirements.txt
 
-Edit data.txt, input you data token in data.txt, find you token in How to Find Account Token. One line for one data account, if you want add you second account add in new line!
+# Edit data.txt, input you data token in data.txt, find you token in How to Find Account Token. One line for one data account, if you want add you second account add in new line!
 
 # execute the main program
 
