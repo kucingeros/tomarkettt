@@ -20,7 +20,7 @@ So be careful, hopefully your account won't get banned.
 ## Settings data file
 | Setting                      | Description                                                                                    |
 |------------------------------|------------------------------------------------------------------------------------------------|
-| query_id        | fill the `data.txt` file with your data, how to get data you can refer to [How to Get Data](#how-to-get-data)                      |
+| query_id        | fill the `data.txt` file with your data, how to get data you can refer to (#[How to Get Data](#how-to-get-app-webdata-telegram))                      |
 
 
 
