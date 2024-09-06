@@ -1,9 +1,9 @@
 
-# TomarketBot
+## TomarketBot
 🖱️ clicker for [https://t.me/Tomarket_ai_bot](http://t.me/Tomarket_ai_bot/app?startapp=0000i73A)
 
 
-# Functionality
+## Functionality
 | Functional                                                                      | Supported |
 |----------------------------------------------------------------|:---------:|
 | Auto Claim                                                     |     ✅     |
@@ -11,7 +11,7 @@
 | Suppport Multi Account                                         |     ✅     |
 | Proxy Support                                                  |     ✅     |
 
-# Warning !
+## Warning !
 According to [Telegram TOS](https://core.telegram.org/api/obtaining_api_id#using-the-api-id) all accounts that sign up or log in using unofficial Telegram API clients are automatically put under observation to avoid violations of the Terms of Service.
 
 So be careful, hopefully your account won't get banned.
@@ -25,37 +25,37 @@ So be careful, hopefully your account won't get banned.
 
 
 
-# Requirements
+## Requirements
 - Python 3.9 (you can install it [here](https://www.python.org/downloads/release/python-390/))
 - How to Get Data (you can get them in bottom of README.md)
   
 Make sure you computer was installed python and git.
 
-# Suggestion: Use python version 3.8+ (3.8 and above or latest)
+## Suggestion: Use python version 3.8+ (3.8 and above or latest)
 
 python site : [here](https://python.org)
 
 git site : [here](https://git-scm.com/)
 
-# Clone this repository
+## Clone this repository
 
 	git clone https://github.com/kucingeros/tomarkettt
 
-# goto tomarket directory
+## goto tomarket directory
 
 	cd tomarkettt
  
-# install the require library
+## install the require library
 
 	python -m pip install -r requirements.txt
 
-# Edit data.txt, input you data token in data.txt, find you token in How to Find Account Token. One line for one data account, if you want add you second account add in new line!
+## Edit data.txt, input you data token in data.txt, find you token in How to Find Account Token. One line for one data account, if you want add you second account add in new line!
 
-# execute the main program
+## execute the main program
 
 	python bot.py
 
-# how to get app webdata telegram
+## how to get app webdata telegram
 - right click on mini app> f12 or inspect element
 - go to console> type allow pasting
 - and copy paste> 
