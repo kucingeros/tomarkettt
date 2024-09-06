@@ -288,7 +288,7 @@ class Tomartod:
 \ \/  \/ / _ \| '__| |/ _` |
  \  /\  / (_) | |  | | (_| |
   \/  \/ \___/|_|  |_|\__,_|
-    HamsterKombat BOT V 1.1
+    Tomarket BOT V 1.1
     Prepared and Developed by: https://github.com/kucingeros                                   
     
     {hijau}Message: {putih}dont't forget to 'git pull' maybe the script is updated 
